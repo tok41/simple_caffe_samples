@@ -1,0 +1,15 @@
+
+*.pyc
+*.out
+
+*.csv
+
+*.png
+
+*.caffemodel
+*.solverstate
+
+helloworld-with-caffe.cpp
+
+test/
+.ipynb_checkpoints/
