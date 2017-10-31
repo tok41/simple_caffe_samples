@@ -1,4 +1,8 @@
 
+libhdf5_hl.so
+libhdf5_hl.so.100
+libhdf5.so.101
+
 *.pyc
 *.out
 
